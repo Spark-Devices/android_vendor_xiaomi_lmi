@@ -1263,7 +1263,6 @@ PRODUCT_PACKAGES += \
     libfastcvopt \
     libthermalclient \
     CneApp \
-    IFAAService \
     IWlanService \
     SoterService \
     TimeService \
